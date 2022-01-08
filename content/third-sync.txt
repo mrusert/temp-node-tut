@@ -1,0 +1,5 @@
+Here is the result 
+Value from first.txt - Hello this is first txt file
+Value from second.txt - Hello this is second txt file
+
+<----Appending to third.txt----->
